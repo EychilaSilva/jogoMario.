@@ -1,8 +1,6 @@
 
 # 🎮 Mario Jump
 
-[![Generic badge](https://img.shields.io/badge/Project-Mario%20Jump-blue.svg)](https://shields.io/)
-[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![HTML5](https://img.shields.io/badge/Tech-HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/Tech-CSS3-blueviolet.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/Tech-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -21,17 +19,17 @@ No **Mario Jump**, o jogador controla o Mario, que deve pular os canos para evit
 
 ## 📂 Estrutura do Projeto
 
-jogomario01/
-├── index.html           # Estrutura principal do jogo
-├── css/
-│   └── style.css        # Estilização do jogo
-├── js/
-│   └── script.js        # Lógica do jogo e animações
-└── Img/                 # Imagens do jogo
-├── mario.gif
-├── pipe.png
-├── clouds.png
-└── game-over.png
+ jogomario01/
+ ├── index.html           # Estrutura principal do jogo
+ ├── css/
+ │   └── style.css        # Estilização do jogo
+ ├── js/
+ │   └── script.js        # Lógica do jogo e animações
+ └── Img/                 # Imagens do jogo
+ ├── mario.gif
+ ├── pipe.png
+ ├── clouds.png
+ └── game-over.png
 
 ## 🎯 Funcionalidades
 

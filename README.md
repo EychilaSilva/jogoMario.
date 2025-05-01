@@ -55,7 +55,7 @@ Este projeto proporcionou prática com:
     ```
 2.  Abra o arquivo `index.html` em qualquer navegador moderno.
 
-## Projeto realizado através do link: 
+## Projeto realizado com base no link: 
   ```bash
 https://youtu.be/r9buAwVBDhA?si=ImGWG-6iTStdB3M6
   ```

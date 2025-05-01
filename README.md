@@ -19,17 +19,17 @@ No **Mario Jump**, o jogador controla o Mario, que deve pular os canos para evit
 
 ## 📂 Estrutura do Projeto
 
- jogomario01/
- ├── index.html           # Estrutura principal do jogo
- ├── css/
- │   └── style.css        # Estilização do jogo
- ├── js/
- │   └── script.js        # Lógica do jogo e animações
- └── Img/                 # Imagens do jogo
- ├── mario.gif
- ├── pipe.png
- ├── clouds.png
- └── game-over.png
+* jogomario01/
+    * index.html - Estrutura principal do jogo
+    * css/
+        * style.css - Estilização do jogo
+    * js/
+        * script.js - Lógica do jogo e animações
+    * Img/ - Imagens do jogo
+        * mario.gif
+        * pipe.png
+        * clouds.png
+        * game-over.png
 
 ## 🎯 Funcionalidades
 

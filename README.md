@@ -1,46 +1,65 @@
 
-🎮 Mario Jump
-Projeto acadêmico desenvolvido como atividade da faculdade. Trata-se de um jogo simples baseado no clássico Mario, no qual o personagem precisa pular obstáculos para sobreviver. O objetivo principal do projeto foi aplicar conhecimentos de HTML, CSS e JavaScript de forma prática.
+# 🎮 Mario Jump
 
-🕹️ Sobre o Jogo
-No Mario Jump, o jogador controla o Mario, que deve pular os canos para evitar colisões. Caso o Mario colida com um cano, o jogo termina com uma animação de game over.
+[![Generic badge](https://img.shields.io/badge/Project-Mario%20Jump-blue.svg)](https://shields.io/)
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![HTML5](https://img.shields.io/badge/Tech-HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/Tech-CSS3-blueviolet.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/Tech-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-🧑‍💻 Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript (puro)
+Projeto acadêmico desenvolvido como atividade da faculdade. Trata-se de um jogo simples baseado no clássico Mario, no qual o personagem precisa pular obstáculos para sobreviver. O objetivo principal do projeto foi aplicar conhecimentos de **HTML**, **CSS** e **JavaScript** de forma prática.
 
-📂 Estrutura do Projeto
+## 🕹️ Sobre o Jogo
+
+No **Mario Jump**, o jogador controla o Mario, que deve pular os canos para evitar colisões. Caso o Mario colida com um cano, o jogo termina com uma animação de game over.
+
+## 🧑‍💻 Tecnologias Utilizadas
+
+* HTML5
+* CSS3
+* JavaScript (puro)
+
+## 📂 Estrutura do Projeto
+
 jogomario01/
-├── index.html            # Estrutura principal do jogo
+├── index.html           # Estrutura principal do jogo
 ├── css/
-│   └── style.css         # Estilização do jogo
+│   └── style.css        # Estilização do jogo
 ├── js/
-│   └── script.js         # Lógica do jogo e animações
-└── Img/                  # Imagens do jogo
-    ├── mario.gif
-    ├── pipe.png
-    ├── clouds.png
-    └── game-over.png
-    
-🎯 Funcionalidades
-Animação contínua dos obstáculos (cano e nuvens)
-Detecção de colisões entre o Mario e o cano
-Comando de pulo ativado pela tecla do teclado
-Transição automática para o estado de game over quando há colisão
+│   └── script.js        # Lógica do jogo e animações
+└── Img/                 # Imagens do jogo
+├── mario.gif
+├── pipe.png
+├── clouds.png
+└── game-over.png
 
-📚 Aprendizados
+## 🎯 Funcionalidades
+
+* Animação contínua dos obstáculos (cano e nuvens)
+* Detecção de colisões entre o Mario e o cano
+* Comando de pulo ativado pela tecla do teclado
+* Transição automática para o estado de game over quando há colisão
+
+## 📚 Aprendizados
+
 Este projeto proporcionou prática com:
 
-Manipulação de DOM com JavaScript puro
-Uso de setInterval e setTimeout para controle de tempo
-Aplicação de @keyframes no CSS para animações
-Detecção de colisões com base em posições CSS
-🚀 Como Executar
-Clone o repositório:
+* Manipulação de DOM com JavaScript puro
+* Uso de `setInterval` e `setTimeout` para controle de tempo
+* Aplicação de `@keyframes` no CSS para animações
+* Detecção de colisões com base em posições CSS
 
-git clone: https://github.com/EychilaSilva/jogoMario01.git
-Abra o arquivo index.html em qualquer navegador moderno.
+## 🚀 Como Executar
 
-📝 Licença
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/EychilaSilva/jogoMario01.git
+    ```
+2.  Abra o arquivo `index.html` em qualquer navegador moderno.
+
+## 📝 Licença
+
 Este projeto é de uso acadêmico e não possui fins comerciais. Imagens e personagens utilizados pertencem à Nintendo.
+
+---
+
